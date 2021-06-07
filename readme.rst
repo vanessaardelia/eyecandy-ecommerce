@@ -74,7 +74,7 @@ Result
 ***************
 
 You can check the website online on
-`Eyecandy e-commerce <http://eyecandypemweb.000webhostapp.com>`_
+`Eyecandy e-commerce <http://eyecandy-commerce.000webhostapp.com/>`_
 
 ***************
 Credits
